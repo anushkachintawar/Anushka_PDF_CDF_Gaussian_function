@@ -1,3 +1,14 @@
+% Create Date: 31.01.2024
+% Designer Name: Anushka Chintawar
+% Project Name: PDF_CDF_Gaussian_function
+% Target Devices: 
+% Tool Versions: 
+% Description: 
+% Reach me: bt21ece096@iiitn.ac.in
+% Dependencies:  
+% Revision:
+% Additional Comments:
+
 clc;
 clear all;
 close all;
